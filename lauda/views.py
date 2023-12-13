@@ -10,7 +10,6 @@ import os
 import sys
 import time
 from datetime import datetime
-import numpy as np
 import pyqtgraph as pg
 import serial
 from PyQt6.QtCore import QDateTime, QSize, QThread, pyqtSignal, QUrl
